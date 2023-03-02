@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<head>
+	<title>Get to know me</title>
+	<style>
+header {
+	background-color: rgb(0, 0, 0);
+	color: white;
+	padding: 20px;
+	text-align: auto;
+}
+body {
+	background-color: black;
+	color: white;
+}
+.minion{
+	width: 200px;
+	height: 200px;
+    box-shadow: 
+         inset 0 0 50px #fff,
+         inset 20px 0 60px red,
+         inset -20px 0 60px blue,
+         inset 20px 0 300px red,
+         inset -20px 0 300px blue,
+           0 0 50px #fff,
+           -10px 0 60px red,
+           10px 0 60px blue;
+}
+</style>
+</head>
+<body>
+	<header>
+		<h1>Welcome to my personal website!</h1>
+		<img class="minion" src="https://i.pinimg.com/originals/e3/c7/47/e3c747b1bf7b80b066f62d629209e694.gif" alt="minion gif hello" id="minime"/> <p>Click or hover the minion</p>
+		<audio id="miley">
+			<source src=".\resources\Miley Cyrus_Fly On The Wall Lyrics.mp3" type="audio/mpeg">
+		</audio>
+	    <script>
+	        var image= document.getElementById('minime');
+	        var audio= document.getElementById("miley");
+	        image.addEventListener('mouseenter', function(){
+	        	audio.play();
+	        });
+	        image.addEventListener('mouseleave', function() {
+	            audio.pause();
+	            audio.currentTime = 0;
+	        });
+	    </script>
+	</header>
+	<main>
+		<h2>About me</h2>
+		<p>I am Alexandra and I am a beginner in the world of programming. I hope to become a Front-End Developer, as I really enjoy working with HTML, CSS and JavaScript.</p>
+		<h2>My portfolio</h2>
+		<p><a href="https://github.com/AlexandraPapadopol?tab=repositories" target="_blank"> Here</a> you can find my portfolio! Don't worry, more projects will come soon!
+		<h2>Contact me</h2>
+		<p>I am on <a href="https://www.linkedin.com/in/alexandra-p-989883244" target="_blank">LinkedIn</a> and on <a href="https://github.com/AlexandraPapadopol" target="_blank"> GitHub </a>
+	</main>
+	<footer>
+<p><h6>DISCLAIMER! I do not own in any way or form the audio used in the making of this page. All rights are reserved to Miley Cyrus.</h6></p>
+	</footer>
+</body>
+</html>
