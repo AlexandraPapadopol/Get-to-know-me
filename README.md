@@ -5,4 +5,6 @@ A little project that comprises elements of HTML, CSS and JavaScript and some of
 
 ![Screenshot (136)](https://user-images.githubusercontent.com/125815967/222429828-c2c32dae-7f27-4adb-a5e0-71ea019396a6.png)
 
+I will keep updating this little persoanl website as I learn more ;)
+
 DISCLAIMER! I do not own in any way or form the audio used in the making of this page. All rights are reserved to Miley Cyrus.
