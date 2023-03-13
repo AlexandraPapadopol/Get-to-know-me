@@ -11,5 +11,3 @@ A little project that comprises elements of HTML, CSS and JavaScript and some of
 
 
 I will keep updating this little personal website as I learn more ;)
-
-DISCLAIMER! I do not own in any way or form the audio used in the making of this page. All rights are reserved to Miley Cyrus.
