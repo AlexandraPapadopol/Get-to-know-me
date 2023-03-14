@@ -1,13 +1,10 @@
 # Get-to-know-me
 A little project that comprises elements of HTML, CSS and JavaScript and some of the owner personality :)
 
-![Screenshot (144)](https://user-images.githubusercontent.com/125815967/224413058-32195c1c-d07b-4d28-a2a5-1560ead3fb9a.png)
+![Screenshot (147)](https://user-images.githubusercontent.com/125815967/225067119-c8c87634-f7b0-450d-8c97-0565a3089c69.png)
 
-![Screenshot (145)](https://user-images.githubusercontent.com/125815967/224413120-ed36aefd-c8f5-407e-94f5-602fb62f54b5.png)
+![Screenshot (148)](https://user-images.githubusercontent.com/125815967/225067267-10326895-49c1-431a-893e-e8f0e1fce456.png)
 
-![Screenshot (146)](https://user-images.githubusercontent.com/125815967/224413153-14f312d1-1110-4ca4-8d70-216739d7a84b.png)
-
-
-
+![Screenshot (149)](https://user-images.githubusercontent.com/125815967/225067350-3e0c096e-293d-4eda-bcef-295d4bc8db06.png)
 
 I will keep updating this little personal website as I learn more ;)
